@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Sudipta0102
-- 👀 I’m interested 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sudipta Das
+- 📫 How to reach me: sudipta0102@gmail.com
 
 <!---
 Sudipta0102/Sudipta0102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
