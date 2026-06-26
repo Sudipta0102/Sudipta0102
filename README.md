@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Sudipta Das
 - 📫 How to reach me: sudipta0102@gmail.com
 
 <!---
